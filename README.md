@@ -1,4 +1,3 @@
-# mark-down-challenge
 
 # Francis François
 
@@ -6,34 +5,34 @@
 
 ![Photo professionelle](IMG_5518.JPG)
 
-## Sympa
+## Nice
 
 | birthday | 9 janvier |
 | ---------| :---------|
-| favorite color |  bleu |
+| favorite color |  blue |
 | favorite food | pizza |
 | Pinneapple on pizza | NO |
 
-### Hobbies
+## Hobbies
 
 * Race car
 * New technology
 * Movies
   * Marvels
   * Action
-  * Aventure
+  * Adventure
 
-#### You can always count on me when you are sad
+### You can always count on me when you are sad
 
 I am very calm and conscientious
 
-##### A funny story
+### A funny story
 
 When I was a child I got lost for 2 hours in a cornfield
 
-###### I was lost 
+### I was lost 
 
- [<< précédent]()|| François Francis||[suivant >>](https://github.com/Fradven/markdown-challenge)
+ [<< précédent](https://github.com/fannyfraiture/markdown-challenge)|| François Francis||[suivant >>](https://github.com/Fradven/markdown-challenge)
  
 
  
